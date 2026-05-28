@@ -1,3 +1,12 @@
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 💻
+colorFrom: blue
+colorTo: purple
+short_description: A simple AI-powered search assistant built with Streamlit, L
+---
 # 🔎 Search Engine
 
 A simple AI-powered search assistant built with Streamlit, LangChain, and Groq.
@@ -27,20 +36,6 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
-```
-
-## Hugging Face Spaces Configuration
-
-```yaml
----
-title: Search Engine
-emoji: 🔎
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-app_file: app.py
-pinned: false
----
 ```
 
 ## Author
